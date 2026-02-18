@@ -1,0 +1,8 @@
+class_id,class_name,duration,intensity,trainer_name,capacity,description,compressed_description,response_time
+1,HIIT,45,High,Rahul,20,High intensity interval training session focusing on fat burn and stamina improvement.,High-intensity workout to burn fat and improve stamina.,6
+2,Cardio Blast,40,High,Rahul,20,Energetic cardio workout designed to improve heart health and calorie burning.,Cardio session focused on heart health and calorie burn.,6
+3,Zumba,50,Medium,Anjali,25,Dance-based fitness program combining Latin rhythms with calorie-burning moves.,Dance fitness class for fun calorie burning.,6
+4,Strength Training,50,Medium,Vikram,18,Resistance-based training to build muscle mass and endurance.,Resistance training to build muscle and strength.,6
+5,CrossFit,60,High,Vikram,15,Functional fitness training combining strength and conditioning movements.,High-intensity functional training for strength and endurance.,6
+6,Yoga,60,Low,Anjali,25,Guided yoga session to improve flexibility and reduce stress.,Yoga class for flexibility and stress relief.,6
+7,Pilates,45,Low,Anjali,20,Core-focused workout designed to improve posture and stability.,Core strengthening session for posture and stability.,6
